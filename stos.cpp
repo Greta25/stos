@@ -52,7 +52,6 @@ void Stos::wyswietl()
 int main()
 {
     Stos S1;
-    int zmienna;
     S1.dodaj(25);
     S1.dodaj(2);
     S1.dodaj(44);
